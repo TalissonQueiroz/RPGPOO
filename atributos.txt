@@ -1,0 +1,15 @@
+Humano                         Orc    
+Ataque = 30                  Ataque = 40
+Defesa = 20                  Defesa = 35
+Vida = 45                       Vida = 60
+----------------------------------------------------
+Mago                              Troll    
+Ataque = 50                  Ataque = 25
+Defesa = 10                  Defesa = 65
+Vida = 35                       Vida = 80 
+-----------------------------------------------------
+Elfo                                 Anão    
+Ataque = 50                  Ataque = 45
+Defesa = 30                  Defesa = 20
+Vida = 40                       Vida = 40           
+-----------------------------------------------------              
